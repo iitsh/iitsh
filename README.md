@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="480" height="384" alt="animated gif">
 </p>
 
-<h1 align="center">👋 Hi, I'm Omar Bouhaddach</h1>
+<h1 align="center">👋 Hi, I'm Rayane Berrada</h1>
 <h3 align="center">Aspiring AI & Emerging Tech Enthusiast | Student at the Higher School of Technology, Meknes</h3>
 
 ---

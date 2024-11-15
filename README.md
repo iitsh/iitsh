@@ -41,39 +41,15 @@ I'm expanding my skills in *Linux OS* 🐧, *information systems, **databases, *
 
 ---
 
-<!-- ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bugshadow&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bugshadow&theme=dark&hide_border=false" width="45%">
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugshadow&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="45%">
-</p> -->
-
----
-
-<!-- ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bugshadow&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-</p> -->
-
 ### ✍ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
-<!-- ### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bugshadow&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</p> -->
-
 ---
 
 ### 📫 Connect with Me
 <p align="center">
-  <!-- <a href="https://linkedin.com/in/omar-bouhaddach-7420a02b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> -->
   <a href="https://instagram.com/i__r_y_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="mailto:rayane06berrada@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="30" alt="Gmail" /></a>
 </p>
@@ -86,4 +62,3 @@ I'm expanding my skills in *Linux OS* 🐧, *information systems, **databases, *
   </a>
 </p>
 
-<!-- ![snake gif](https://github.com/bugshadow/bugshadow/blob/output/github-snake-dark.svg) -->

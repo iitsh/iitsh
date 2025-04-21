@@ -96,20 +96,20 @@ MySQL        ████████████▒▒▒▒▒▒▒▒▒▒�
 
 ### 🌱 Current Learning Journey
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 1;">
-    <h4>I'm expanding my skills in:</h4>
-    <ul>
-      <li>🐧 Linux OS</li>
-      <li>💾 Information systems & databases</li>
-      <li>🌐 Web technologies</li>
-      <li>💻 Computer architecture</li>
-      <li>🧠 Advanced AI & ML techniques</li>
-    </ul>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFiZGZ5M291ZTUwYnh2Z2ZpMjRmajdydGNibjdyZjc3N2FucXNnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PtGO9AJYVHCOqmI6u/giphy.gif" height="150" alt="learning journey">
-  </div>
+I'm expanding my skills in:
+
+* 🐧 Linux OS
+* 💾 Information systems & databases
+* 🌐 Web technologies
+* 💻 Computer architecture
+* 🧠 Advanced AI & ML techniques
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bugshadow&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="480" height="384" alt="animated gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFweGtjZ3RicnVod2kybjJ5ZDY0eWZqd2FidnVyMDYzc3RqaDh0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="480" height="384" alt="animated gif">
 </p>
 
 <h1 align="center">👋 Hi, I'm Rayane Berrada</h1>
